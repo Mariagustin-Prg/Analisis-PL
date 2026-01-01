@@ -6,3 +6,6 @@ sqlalchemy
 sqlite3
 seaborn
 matplotlib
+fastapi
+gunicorn
+streamlit
